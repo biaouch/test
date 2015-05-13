@@ -1,4 +1,0 @@
-SKUPINA,,,
-ovoce,jablko,hruška,slivovice
-zelenina,mrkev,zelí,paprika
-operaèní systém,DOS,Linux,BSD
